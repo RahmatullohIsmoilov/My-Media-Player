@@ -14,3 +14,8 @@ A simple media player built using PyQt5 that supports video playback, custom vol
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/my-media-player.git
+
+## Requirements
+1. PyQt5 Installation
+   ```bash
+   pip install PyQt5
